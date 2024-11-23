@@ -57,6 +57,4 @@ This project aims to build a predictive model for estimating app ratings on the 
 *   Investigate the impact of "Last Updated" and other time-based features on ratings.
 *   Analyze app reviews for sentiment analysis and incorporate text-based features.
 
-## Database Screenshot
 
-[Image of Database Screenshot](/content/database screen shot.png)
